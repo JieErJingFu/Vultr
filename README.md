@@ -3,12 +3,13 @@
 ### <https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw>  观看视频  
 ### 学习搭建机场就用Vultr云服务器VPS  
 ### 注册就送100美金，免费地址：<https://www.vultr.com/?ref=8806464>
-### 腾讯云推荐
-可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器：  
-云服务器全球购1： https://curl.qcloud.com/wZZzen60  
-云服务器全球购2：https://curl.qcloud.com/iGDVWVjz  
-新用户优惠券： https://curl.qcloud.com/GLpiR275  
-新用户福利券：https://curl.qcloud.com/JmobD9yg  
+### 腾讯云推荐,可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器:  
+1.云服务器全球购1： https://curl.qcloud.com/wZZzen60
+2.云服务器全球购2：https://curl.qcloud.com/iGDVWVjz
+3.新用户优惠券： https://curl.qcloud.com/GLpiR275
+4.新用户福利券：https://curl.qcloud.com/JmobD9yg
+
+
 ================================  
 以云服务器使用Ubuntu, 客户使用Windows 10为例进行实验  
 1.准备工作  
