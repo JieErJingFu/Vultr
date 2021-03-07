@@ -4,10 +4,10 @@
 ### 学习搭建机场就用Vultr云服务器VPS  
 ### 注册就送100美金，免费地址：<https://www.vultr.com/?ref=8806464>
 ### 腾讯云推荐,可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器:  
-1.云服务器全球购1： https://curl.qcloud.com/wZZzen60
-2.云服务器全球购2：https://curl.qcloud.com/iGDVWVjz
-3.新用户优惠券： https://curl.qcloud.com/GLpiR275
-4.新用户福利券：https://curl.qcloud.com/JmobD9yg
+1.云服务器全球购1： https://curl.qcloud.com/wZZzen60  
+2.云服务器全球购2：https://curl.qcloud.com/iGDVWVjz    
+3.新用户优惠券： https://curl.qcloud.com/GLpiR275  
+4.新用户福利券：https://curl.qcloud.com/JmobD9yg  
 
 
 ================================  
