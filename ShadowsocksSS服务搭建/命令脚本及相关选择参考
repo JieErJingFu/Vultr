@@ -1,0 +1,18 @@
+送100美元Vultr免费云服务器注册：https://www.vultr.com/?ref=8806465-6G
+搭建步骤如下
+# yum install -y wget
+# wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+# chmod +x shadowsocks-all.sh
+# ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+
+=========我们这里选第1个，搭建Shadowsocks/SS服务器
+=========密码：KINGFU@202103EE
+=========端口：7777
+=========加密：14) chacha20-ietf-poly1305
+=========按任意键继续
+
+
+---------卸载：./shadowsocks-all.sh uninstall
+
+
+# firewall-cmd --zone=public --add-port=7777/tcp --permanent ; firewall-cmd --reload
