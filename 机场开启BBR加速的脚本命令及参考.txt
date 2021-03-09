@@ -1,0 +1,10 @@
+送100美元Vultr免费云服务器注册：https://www.vultr.com/?ref=8806465-6G
+
+详细安装过程及注意事项请参考视频，欢迎大家点赞、订阅、分享：
+订阅通道: https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw?sub_confirmation=1
+
+//一键安装BBR加速脚本
+# cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+===========我这里选择“2”，“安装 BBRplus版内核”加速。在安装过程中，可能会出现如下提示，用右方向键选“<No>”，然后回车。
+===========安装完成后会提示重启服务器，这时候输入字母“y”，回车后，重启服务器。当服务器启动后，我们再次执行安装命令，选择“7”启用“使用BBRplus版加速”。
