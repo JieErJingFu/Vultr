@@ -1,1 +1,4 @@
-----------为了自建机场可以长时间使用，已经和库：https://github.com/JieErJingFu/FreeNodesTrojanVmessSSRSS 加密合并，请大家观看视频自行查找密码，密码每一月变动一次。
+变动声明
+============================================
+为了自建机场可以长时间生存，已经和库：https://github.com/JieErJingFu/FreeNodesTrojanVmessSSRSS 加密合并，请大家观看视频自行查找密码，密码每一月变动一次。
+---------------------------------------------
