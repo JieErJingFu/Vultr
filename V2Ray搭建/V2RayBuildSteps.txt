@@ -1,16 +1,14 @@
+# setenforce 0
+# systemctl stop firewalld
+# yum install -y vim    //安装vim文本编辑器
 # date -R  //查看时间和时区
-# rm /etc/localtime  //删除当前时区配置文件
+# rm -f /etc/localtime  //删除当前时区配置文件
 # ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  //设置新的时区
 # date -R
 # ntpdate -u time.pool.aliyun.com   //与时间服务器同步
-//以上的时间与时区设置可以忽略
-
 
 //官方安装脚本
 # bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
-
-//开启系统启动后自动加载v2ray服务，启动当前v2ray服务，查看v2ray服务状态
-# systemctl enable v2ray; systemctl start v2ray; systemctl status v2ray
 
 //更新相关的数据库
 # bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-dat-release.sh)
@@ -23,14 +21,11 @@
 
 # systemctl status firewalld
 
-
 //编辑v2ray服务的配置文件,保存并退出
 # vi  /usr/local/etc/v2ray/config.json
 # vim  /usr/local/etc/v2ray/config.json   //需要安装vim文本编辑器
 
+//开启系统启动后自动加载v2ray服务，启动当前v2ray服务，查看v2ray服务状态
+# systemctl enable v2ray; systemctl start v2ray; systemctl status v2ray
 
-//重新启动v2ray服务，让配置生效,并查看v2ray是否正常运行
-# systemctl restart v2ray; systemctl status v2ray
-
-
-//启动自己的客户端v2rayN，测试连接是否成功
+//启动自己的客户端v2rayN，测试连接是否成功, 注意加密方式选择auto还是none
