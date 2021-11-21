@@ -5,7 +5,8 @@
 # rm -f /etc/localtime  //删除当前时区配置文件
 # ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  //设置新的时区
 # date -R
-# ntpdate -u time.pool.aliyun.com   //与时间服务器同步
+# ntpdate -u time.pool.aliyun.com     //与时间服务器同步
+# ntpdate -u time.windows.com
 
 //官方安装脚本
 # bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
