@@ -19,7 +19,7 @@
 //让本机防火墙把v2ray的端口放行；重新加载防火墙规则
 # firewall-cmd --zone=public --add-port=8888/tcp --permanent ; firewall-cmd --reload
 
-# systemctl status firewalld
+# systemctl start firewalld   //开启防火墙，这条命令可以忽略
 
 //编辑v2ray服务的配置文件,保存并退出
 # vi  /usr/local/etc/v2ray/config.json
