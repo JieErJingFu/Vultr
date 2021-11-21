@@ -2,7 +2,7 @@
 ### 视频教程请移步YouTuBe频道：《景福KingFu》[欢迎订阅](https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw?sub_confirmation=1)
 ### <https://www.youtube.com/channel/UCNPcbhpducTU5j54Biv4iJw>  观看视频  
 ### 学习搭建机场就用Vultr云服务器VPS  
-### 注册就送100美金，免费地址：<https://www.vultr.com/?ref=8806464>
+### 注册就送100美金，免费地址：<https://www.vultr.com/?ref=8806465-6G>
 ### 腾讯云推荐,可以搭建VPN, V2Ray, Clash, Trojan, SS,SSR的海外服务器:  
 1.云服务器全球购1： https://curl.qcloud.com/wZZzen60  
 2.云服务器全球购2：https://curl.qcloud.com/iGDVWVjz    
